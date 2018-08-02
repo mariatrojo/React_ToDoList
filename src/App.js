@@ -45,7 +45,6 @@ class App extends React.Component {
 							language={language} 
 							onChange={this.change}
 							index={index}
-							// onChange={ ()=>{this.change(index)} }
 						/>
 					)
 				} ) }
